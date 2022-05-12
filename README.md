@@ -22,8 +22,3 @@ Configuration
 Test Execution
 ----
 run API_GET class
-
-
-Report Reading
-----
-open the html file in test-output > html > index.html
